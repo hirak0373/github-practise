@@ -1,2 +1,3 @@
 first PROGRAM
 chk
+chk1
